@@ -1,6 +1,6 @@
 <div align="center">
   <p class="header">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fad4ef,100:c2b2ee&height=240&text=Merry%20Fraise%20🍓&desc=ෆꈍ◡ꈍෆ&animation=twinkling&fontColor=fffbfe&fontSize=40&fontAlignY=40&descAlignY=64"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fad4ef,100:c2b2ee&height=180&text=Merry%20Fraise%20🍓&desc=ෆꈍ◡ꈍෆ&animation=twinkling&fontColor=fffbfe&fontSize=40&fontAlignY=28&descAlignY=44"/>
   </p>
   
   <p class="bio">
