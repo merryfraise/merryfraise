@@ -6,7 +6,7 @@
   <p class="bio">
     <div class="moon">
       <a href="https://moon-svg.minung.dev" target="_blank">
-       <img src="https://moon-svg.minung.dev/moon.svg?size=80&theme=ray&rotate=0" alt="moon.svg">
+       <img src="https://moon-svg.minung.dev/moon.svg?size=40&theme=ray&rotate=0" alt="moon.svg">
       </a>
     </div>
     <h4>Hello 👋🏻</h4>
