@@ -5,7 +5,7 @@
   
   <p class="bio">
     <div class="moon">
-      <a href="https://moon-svg.minung.dev">
+      <a href="https://moon-svg.minung.dev" target="_blank">
        <img src="https://moon-svg.minung.dev/moon.svg?size=80&theme=ray&rotate=0" alt="moon.svg">
       </a>
     </div>
@@ -34,19 +34,19 @@
   <p class="division">•••</p>
   
   <p class="contact">
-    <a href="https://merryfraise.github.io/">
+    <a href="https://merryfraise.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/blog-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="https://www.instagram.com/sonshoupeach/">
+    <a href="https://www.instagram.com/sonshoupeach/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
     </a>
-    <a href="mailto:shoutrawberry@gmail.com">
+    <a href="mailto:shoutrawberry@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </p>
   
   <p class="hits">
-    <a href="https://hits.seeyoufarm.com">
+    <a href="https://hits.seeyoufarm.com" target="_blank">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmerryfraise&count_bg=%23FAD4EF&title_bg=%23C2B2EE&icon=ko-fi.svg&icon_color=%23FFFBFE&title=hits&edge_flat=false"/>
     </a>
   </p>
