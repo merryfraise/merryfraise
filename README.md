@@ -1,6 +1,6 @@
 <div align="center">
   <p class="header">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fad4ef,100:c2b2ee&height=140&text=🍓&desc=ෆꈍ◡ꈍෆ&animation=twinkling&fontColor=fffbfe&fontSize=24&fontAlignY=20&descAlignY=40"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fad4ef,100:c2b2ee&height=180&text=🍓&desc=ෆꈍ◡ꈍෆ&animation=twinkling&fontColor=fffbfe&fontSize=24&fontAlignY=24&descAlignY=44"/>
   </p>
   
   <p class="bio">
