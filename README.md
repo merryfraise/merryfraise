@@ -13,7 +13,7 @@
   </p>
   
   <p class="stats">
-   <img src="https://github-readme-stats.vercel.app/api?username=merryfraise&count_private=true&show_icons=true&bg_color=fffeff&title_color=fad4ef&text_color=c2b2ee&icon_color=fad4ef"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=merryfraise&count_private=true&show_icons=true&include_all_commits=true&bg_color=fffeff&title_color=fad4ef&text_color=c2b2ee&icon_color=fad4ef"/>
   </p>
   
   <p class="hits">
