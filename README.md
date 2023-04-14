@@ -11,7 +11,18 @@
     </div>
     <h4>Hi there <img src="https://user-images.githubusercontent.com/121331811/231955636-bb51ef92-28bf-4d96-ad9d-b3656d14c056.png" height="36" /></h4>
   </p>
+</div>
   
+```ts
+const shoupeach = {
+  🐰 name: "손수빈" || "Subin Son",
+  🍑 code: [JavaScript, TypeScript, HTML, CSS],
+  🍓 tools: [React.js, Next.js, Redux.js, Styled-Components, Axios],
+  🍞 arbeit: "5th year bakery part-time job"
+}
+```
+
+<div align="center">
   <p class="stats">
    <img src="https://github-readme-stats.vercel.app/api?username=merryfraise&count_private=true&show_icons=true&include_all_commits=true&bg_color=fffeff&title_color=fad4ef&text_color=c2b2ee&icon_color=fad4ef"/>
   </p>
