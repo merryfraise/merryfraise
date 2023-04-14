@@ -9,7 +9,7 @@
        <img src="https://moon-svg.minung.dev/moon.svg?size=100&theme=ray&rotate=0" alt="moon.svg">
       </a>
     </div>
-    <h4>Hi there 🐰</h4>
+    <h4>Hi there <img src="https://user-images.githubusercontent.com/121331811/231955636-bb51ef92-28bf-4d96-ad9d-b3656d14c056.png" height="36" /></h4>
   </p>
   
   <p class="stats">
