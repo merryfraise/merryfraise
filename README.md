@@ -30,7 +30,7 @@
   
   <p class="hits">
     <a href="https://hits.seeyoufarm.com" target="_blank">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmerryfraise&count_bg=%23FAD4EF&title_bg=%23C2B2EE&icon=ko-fi.svg&icon_color=%23FFFBFE&title=hits&edge_flat=false"/>
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmerryfraise&count_bg=%23F9B5D0&title_bg=%23C2B2EE&icon=ko-fi.svg&icon_color=%23FFFBFE&title=hits&edge_flat=false"/>
     </a>
   </p>
 </div>
