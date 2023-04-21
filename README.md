@@ -15,12 +15,12 @@
 </div>
   
 ```js
-                const shoupeach = {
-                  🐰 name: "손수빈" || "Subin Son",
-                  🍑 code: [JavaScript, TypeScript, HTML, CSS],
-                  🍓 tools: [React.js, Next.js, Redux.js, Styled-Components, Axios],
-                  🍞 arbeit: "5th year bakery part-time job"
-                }
+const shoupeach = {
+  🐰 name: "손수빈" || "Subin Son",
+  🍑 code: [JavaScript, TypeScript, HTML, CSS],
+  🍓 tools: [React.js, Next.js, Redux.js, Styled-Components, Axios],
+  🍞 arbeit: "5th year bakery part-time job"
+}
 ```
 
 <div align="center">
