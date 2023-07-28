@@ -10,7 +10,6 @@
       </a>
     </div>
     <h4>Hi there 🐰</h4>
-    <img src="https://user-images.githubusercontent.com/121331811/231955636-bb51ef92-28bf-4d96-ad9d-b3656d14c056.png" height="144" align="right" />
   </p>
 </div>
   
