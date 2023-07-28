@@ -14,7 +14,7 @@
 </div>
   
 ```js
-const shoupeach = {
+const merryfraise = {
   🐰 name: "손수빈" || "Subin Son",
   🍑 code: [JavaScript, TypeScript, HTML, CSS],
   🍓 tools: [React.js, Next.js, Redux.js, Styled-Components, Axios],
